@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lyric2Melody</title>
+    <link>https://lyric2melody.github.io/</link>
+    <description>Recent content on Lyric2Melody</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Copyright notice</copyright><atom:link href="https://lyric2melody.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://lyric2melody.github.io/lyric2melody/</link>
+      <pubDate>Thu, 10 Mar 2022 17:44:16 +0800</pubDate>
+      
+      <guid>https://lyric2melody.github.io/lyric2melody/</guid>
+      <description>Task Description Lyric-to-melody generation, which generate melody according to the given melody, is one of the most important and common tasks in automatic music composition.
+Demo Video Musical Principles Tone Rhythm Structure Cases Tone Rhythm Structure </description>
+    </item>
+    
+  </channel>
+</rss>
