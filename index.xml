@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Lyric2Melody</title>
+    <title>ReLyMe</title>
     <link>https://lyric2melody.github.io/</link>
-    <description>Recent content on Lyric2Melody</description>
+    <description>Recent content on ReLyMe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; Copyright notice</copyright><atom:link href="https://lyric2melody.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>&amp;copy; Copyright notice</copyright>
+    <lastBuildDate>Thu, 10 Mar 2022 17:44:16 +0800</lastBuildDate><atom:link href="https://lyric2melody.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
-      <link>https://lyric2melody.github.io/lyric2melody/</link>
+      <title>ReLyMe: Improving Lyric-to-Melody Generation with Lyric-Melody Relationships</title>
+      <link>https://lyric2melody.github.io/posts/relyme/</link>
       <pubDate>Thu, 10 Mar 2022 17:44:16 +0800</pubDate>
       
-      <guid>https://lyric2melody.github.io/lyric2melody/</guid>
-      <description>Task Description Lyric-to-melody generation, which generate melody according to the given melody, is one of the most important and common tasks in automatic music composition.
-Demo Video Musical Principles Tone Rhythm Structure Cases Tone Rhythm Structure </description>
+      <guid>https://lyric2melody.github.io/posts/relyme/</guid>
+      <description>Task Description Lyric-to-melody generation is one of the most important automatic music composition tasks. With the rapid development of deep learning, previous works address this task with end-to-end neural network models. However, deep learning models cannot well capture the strict but subtle relationships between lyrics and melodies, which affects the harmony between lyrics and generated melodies. In this paper, we propose ReLyMe (Relationships between Lyrics and Melodies), a method that leverages lyric-melody relationships from music theory to alleviate the dissonance between lyrics and melodies.</description>
     </item>
     
   </channel>
